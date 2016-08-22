@@ -1,0 +1,9 @@
+c:\users\yuan\documents\visual studio 2015\Projects\dbExtract\dbExtract\bin\Release\MoonOsuCollector.exe.config
+c:\users\yuan\documents\visual studio 2015\Projects\dbExtract\dbExtract\bin\Release\MoonOsuCollector.exe
+c:\users\yuan\documents\visual studio 2015\Projects\dbExtract\dbExtract\obj\Release\MoonTale Osu Collection Extractor.csprojResolveAssemblyReference.cache
+c:\users\yuan\documents\visual studio 2015\Projects\dbExtract\dbExtract\obj\Release\dbExtract.Form1.resources
+c:\users\yuan\documents\visual studio 2015\Projects\dbExtract\dbExtract\obj\Release\MoonTale Osu Collection Extractor.csproj.GenerateResource.Cache
+c:\users\yuan\documents\visual studio 2015\Projects\dbExtract\dbExtract\obj\Release\MoonOsuCollector.exe
+c:\users\yuan\documents\visual studio 2015\Projects\dbExtract\dbExtract\obj\Release\MoonOsuCollector.pdb
+c:\users\yuan\documents\visual studio 2015\Projects\dbExtract\dbExtract\bin\Release\MoonOsuCollector.pdb
+c:\users\yuan\documents\visual studio 2015\Projects\dbExtract\dbExtract\obj\Release\dbExtract.Properties.Resources.resources

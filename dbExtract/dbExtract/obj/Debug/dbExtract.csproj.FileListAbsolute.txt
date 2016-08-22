@@ -1,0 +1,9 @@
+c:\users\yuan\documents\visual studio 2015\Projects\dbExtract\dbExtract\bin\Debug\dbExtract.exe.config
+c:\users\yuan\documents\visual studio 2015\Projects\dbExtract\dbExtract\bin\Debug\dbExtract.exe
+c:\users\yuan\documents\visual studio 2015\Projects\dbExtract\dbExtract\bin\Debug\dbExtract.pdb
+c:\users\yuan\documents\visual studio 2015\Projects\dbExtract\dbExtract\obj\Debug\dbExtract.csprojResolveAssemblyReference.cache
+c:\users\yuan\documents\visual studio 2015\Projects\dbExtract\dbExtract\obj\Debug\dbExtract.Form1.resources
+c:\users\yuan\documents\visual studio 2015\Projects\dbExtract\dbExtract\obj\Debug\dbExtract.Properties.Resources.resources
+c:\users\yuan\documents\visual studio 2015\Projects\dbExtract\dbExtract\obj\Debug\dbExtract.csproj.GenerateResource.Cache
+c:\users\yuan\documents\visual studio 2015\Projects\dbExtract\dbExtract\obj\Debug\dbExtract.exe
+c:\users\yuan\documents\visual studio 2015\Projects\dbExtract\dbExtract\obj\Debug\dbExtract.pdb
